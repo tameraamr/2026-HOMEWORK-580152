@@ -4,7 +4,8 @@ Questo repository contiene il codice sorgente relativo all'**Homework A** del co
 
 ## Autori
 Tamer Omar - Matricola: 580152
-
+## Nota: Svolgimento Singolo
+Il presente Homework è stato svolto e consegnato singolarmente. Essendo uno studente straniero, a causa della grave situazione di emergenza e guerra nel mio Paese di origine (Israele), sono stato impossibilitato a frequentare tutto l'ultimo mese. Al mio rientro in Italia ho cercato un compagno tramite i gruppi del corso, ma i team erano già tutti formati. Per non mancare la consegna, ho provveduto a completare l'intero carico di lavoro richiesto in totale autonomia.
 
 ## Descrizione del Progetto
 DiaDia è un semplice gioco di ruolo testuale ambientato all'interno dell'università. Il giocatore può muoversi tra diverse stanze, raccogliere attrezzi, riporli nella propria borsa e cercare di raggiungere la stanza vincente (la Biblioteca) prima di esaurire i CFU a disposizione.
